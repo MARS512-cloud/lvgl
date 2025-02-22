@@ -2,8 +2,5 @@
   "name": "lvgl",
   "version": "8.3.1",
   "dependencies": [],
-  "files": [
-    "lvgl.h",
-    "inne pliki lvgl..."
-  ]
+  "files": "files": ["**/*.h", "**/*.c"]
 }
